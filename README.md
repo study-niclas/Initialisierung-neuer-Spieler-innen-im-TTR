@@ -10,7 +10,7 @@ Die aktuelle, überarbeitete PowerPoint welche nun mit Ausreißer bereinigten Da
 ## Andere 
 
 #### Datenumgang
-[csv Daten zu DB konvertieren](Daten_DB_einlesen.ipynb) 
+[Excel Dateien zu DB konvertieren](Daten_DB_einlesen.ipynb) 
 
 [neuer transformierter Datensatz](Datensatz_transformieren.ipynb) 
 
