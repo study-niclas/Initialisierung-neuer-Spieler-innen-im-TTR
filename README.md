@@ -3,7 +3,7 @@
 #### [Visualisierungen](Visualisierungen_der_Praesentation.ipynb) 
 Hier wird der Code zu den Darstellungen, welche in der Powerpoint verwendet werden offen gelegt. Dafür ist die extern zugesandte "Initialentwicklung.csv" wichtig, um den code lokal auszuführen.
 
-#### [PowerPoint](neu_ueberarbeitete_PowerPoint_Initialisierung.pptx)
+#### [Präsentation](ueberarbeitet_Initialisierung_im_TTR.pdf) - [pptx](neu_ueberarbeitete_PowerPoint_Initialisierung.pptx)
 Die aktuelle, überarbeitete PowerPoint welche nun mit Ausreißer bereinigten Daten bezüglich gespielter Einzel/Quartal arbeitet und einige neue Grafiken sowie darduch entstandene Angepassungen.
 
 
@@ -19,4 +19,8 @@ den Weg dahin veranschaulichen diese Code allerdings trotzdem gut und machen die
 
 ## 
 
-[alte Powerpoint](vorgestellt_Powerpoint.pptx) 
+[alte Präsentation](vorgestellt_Powerpoint.pdf) - [pptx](vorgestellte_PowerPoint.pptx)
+
+###
+
+.pptx files könnten nicht abrufbar sein. 
