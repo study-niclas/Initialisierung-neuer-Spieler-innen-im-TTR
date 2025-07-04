@@ -17,6 +17,7 @@ Die aktuelle, überarbeitete PowerPoint welche nun mit Ausreißer bereinigten Da
 Wichtig ist hier anzumerken, dass diese codes alleine nicht die gegebene .csv 1zu1 rekonstruieren, einige Spalten sind noch vorhanden, die später entfernt wurden und andere wurden noch nicht umgerechnet und speperat gespeichert. \n
 den Weg dahin veranschaulichen diese Code allerdings trotzdem gut und machen die Schritte nachvollziehbar. 
 
+## 
 #### --------------------------------------------------------------------------
 
 [alte Powerpoint](vorgestellt_Powerpoint.pptx) 
