@@ -1,6 +1,6 @@
 ## Wichtige Dateien 
 
-#### [Visualisierungen](Visualisierungen der Präsentation.ipynb) 
+#### [Visualisierungen](Visualisierungen_der_Präsentation.ipynb) 
 Hier wird der Code zu den Darstellungen, welche in der Powerpoint verwendet werden offen gelegt. Dafür ist die extern zugesandte "Initialentwicklung.csv" wichtig, um den code lokal auszuführen.
 
 #### [PowerPoint](noch nicht hochgelagen)
