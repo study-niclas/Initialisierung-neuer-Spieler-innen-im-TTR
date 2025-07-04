@@ -18,6 +18,5 @@ Wichtig ist hier anzumerken, dass diese codes alleine nicht die gegebene .csv 1z
 den Weg dahin veranschaulichen diese Code allerdings trotzdem gut und machen die Schritte nachvollziehbar. 
 
 ## 
-#### --------------------------------------------------------------------------
 
 [alte Powerpoint](vorgestellt_Powerpoint.pptx) 
